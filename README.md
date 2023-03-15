@@ -18,8 +18,13 @@ Jelenleg a grafikai elemek szépítése van folyamatban, illetve a játékszabá
 Mivel már most mindenféle jogi akadályba vagyok ütközve a képek és a nevek felhasználásával illetően ezért a játék valószínűleg egy print-and-play verzióban lesz elérhető a nagy közönség számára. 
 Más egyebet nem tudok elmondani. 
 
+### Fájlok
+- Mounika-kártyák.pdf
+	- A kártyák. A képeket rendbe kell rakni, szépítgeten még, jelenleg így áll
+- 
+
 ### Ötletek
-Bármilyen kérdés, kérés vagy ötlet kapcsán írjatok ebbe a google kérdőívbe:
+Bármilyen kérdés, kérés vagy ötlet kapcsán írjatok ebbe a [Google kérdőívbe](https://docs.google.com/forms/d/e/1FAIpQLSfnDmnWgObuTmDs4vYiNq5fLQ4cfNaE6icHeDSVjGfw9FK6vw/viewform). Néha majd ránézek.
 
  
 
