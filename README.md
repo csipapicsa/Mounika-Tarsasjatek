@@ -21,7 +21,10 @@ Más egyebet nem tudok elmondani.
 ### Fájlok
 - Mounika-kártyák.pdf
 	- A kártyák. A képeket rendbe kell rakni, szépítgeten még, jelenleg így áll
-- 
+- mezok-1.pdg
+	- Ezt inkább még meg se nyisd. Új formátumot választottam, egyenlőre nincs átkonvertálva rendesen. A lényeg: A játéknak nincs egy fix mezője, a mező kártyákat - akár tetsőzleges sorrendben - is le lehet helyezni, aztán azon lépegetni. 
+- Szabaly.pdf
+	- Ez meg itt a szabály, pár dolgot kell rajta finomítani, de teljesen jól leírja, hogy is megy a játék. Egyébként meg szarul néz ki.
 
 ### Ötletek
 Bármilyen kérdés, kérés vagy ötlet kapcsán írjatok ebbe a [Google kérdőívbe](https://docs.google.com/forms/d/e/1FAIpQLSfnDmnWgObuTmDs4vYiNq5fLQ4cfNaE6icHeDSVjGfw9FK6vw/viewform). Néha majd ránézek.
