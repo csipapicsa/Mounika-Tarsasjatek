@@ -1,3 +1,5 @@
+[Hivatalos FB oldal](https://www.facebook.com/mounikatarsasjatek)
+
 # Mounika-Tarsasjatek
 Ezen a felületen elérhető lesz a Mounika társasjáték. A játék kidolgozás alatt áll, a feltöltött fájlok még nem a végleges állapotot tükrözik.
 
@@ -29,5 +31,5 @@ Más egyebet nem tudok elmondani.
 ### Ötletek
 Bármilyen kérdés, kérés vagy ötlet kapcsán írjatok ebbe a [Google kérdőívbe](https://docs.google.com/forms/d/e/1FAIpQLSfnDmnWgObuTmDs4vYiNq5fLQ4cfNaE6icHeDSVjGfw9FK6vw/viewform). Néha majd ránézek.
 
- 
+
 
