@@ -1,0 +1,26 @@
+BORDER=ROUNDED
+UNIT=MM
+PAGE=210,297,PORTRAIT,HV
+DPI=300
+CARDSIZE=64,89
+BASERANGE=,ON
+VISUAL=PS, 50, 50
+;Rectangle(snap)(size)
+RECTANGLE=1,0%,0%,100%,100%,#000000
+;LU(snap)(size)
+RECTANGLE=1,2%,2%,48%,48%,#FF0000
+;LD(snap)(size)
+RECTANGLE=1,2%,50%,48%,48%,#FF0000
+;RU(snap)(size)
+RECTANGLE=1,50%,2%,48%,48%,#00FF00
+;RD(snap)(size)
+RECTANGLE=1,50%,50%,48%,48%,#0000FF
+;edge(snap)(size)
+ROUNDRECT=1,0%,0%,100%,100%,#000000,EMPTY,5%,10,10,FR
+;Line(snap)(size)
+LINE=1,50%,0%,50%,100%,#000000,1
+;Line(snap)(size)
+LINE=1,0%,50%,100%,50%,#000000,10
+;Roundrect(snap)(size)
+ROUNDRECT=1,6%,8%,88%,40%,#FFFFFF,#FFFFFF,5%,5,5,R
+ENDVISUAL
