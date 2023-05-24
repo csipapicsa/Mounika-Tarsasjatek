@@ -1,0 +1,57 @@
+BORDER=RECTANGLE,#000000, 0, MARKDOT
+UNIT=MM
+PAGE=210,297,LANDSCAPE,HV
+DPI=150
+CARDSIZE=70,46
+BASERANGE=,ON
+
+linkfill=on
+LINK=D:\M”NIKA\Mounika-Tarsasjatek\MyLittleParty\nepKartyak.csv
+[fronts]= 1-{(K·RTYA LEÌR·S HUN)}
+[backs] = {(K·RTYA LEÌR·S HUN)+1}-{(K·RTYA LEÌR·S HUN)*2}
+
+VISUAL=, 10, 10
+;IMG-KERET
+IMAGE=[fronts],[KERET],0%,{-700/657}%,100%,{66200/657}%,90,T
+IMAGE=,"D:\M”NIKA\Mounika-Tarsasjatek\MyLittleParty\graphics\edge3-ok - Copy.jpg",15%,{10300/219}%,75.8%,{33100/657}%,0,T
+;Name
+HTMLFONT=CARD-TÈma,Bohemian typewriter,12,,#000000,CENTER,0,0,0,,,0,1
+;STRING-Leiras
+HTMLTEXT=[fronts],[K·RTYA LEÌR·S HUN],7%,{6500/657}%,80.4%,{2900/73}%,#FFFFFF,0,T,100,CARD-TÈma
+;-- szamok font
+HTMLFONT=5szam,!PaulMaul,20,,#000000,CENTER
+;far left
+HTMLTEXT=[fronts],[FAR LEFT],22.3%,{39400/657}%,10.9%,{14300/657}%,#FFFFFF,0,TEN,100,5szam
+;left
+HTMLTEXT=[fronts],[LEFT],31.7%,{4400/73}%,12.8%,{1400/73}%,#FFFFFF,0,TEN,100,5szam
+;mid
+HTMLTEXT=[fronts],[MIDDLE],45.3%,{13300/219}%,8.7%,{14500/657}%,#FFFFFF,0,TEN,100,5szam
+;right
+HTMLTEXT=[fronts],[RIGHT],57.9%,{13300/219}%,7.7%,{16400/657}%,#FFFFFF,0,TEN,100,5szam
+HTMLTEXT=[fronts],[FAR RIGHT],70.7%,{40100/657}%,8.7%,{13300/657}%,#FFFFFF,0,TEN,100,5szam
+;--Baljobb
+HTMLFONT=baljobb,Bohemian typewriter,8,,#000000,RIGHT
+;szelsobal
+HTMLTEXT=,"SzÈlsıbal",10.2%,{25100/657}%,9.9%,{30700/657}%,#FFFFFF,270,TFQ,100,baljobb
+;szelsojobb
+HTMLTEXT=,"SzÈlsıjobb",80.9%,{19300/657}%,10.9%,{31900/657}%,#FFFFFF,90,T,100,baljobb
+;T-bonusz
+HTMLTEXT=,"BÛnusz szorzÛ",18.4%,{25400/657}%,51.1%,{9200/657}%,#FFFFFF,0,T,100,baljobb
+;Type
+HTMLTEXT=[fronts],[TÌPUS - HUN],58.8%,{52900/657}%,30.8%,{8000/657}%,#FFFFFF,0,T,100,baljobb
+;bigbaljobbNumber --
+HTMLFONT=BigBalJobbFONT --,!PaulMaul,20,,#000000
+;JOBB
+HTMLTEXT=[fronts],[RIGHT BONUS],73.4%,{21700/657}%,8.7%,{14500/657}%,#FFFFFF,0,T,100,BigBalJobbFONT --
+;BAL
+HTMLTEXT=[fronts],[LEFT BONUS],23.5%,{7000/219}%,9%,{14300/657}%,#FFFFFF,0,T,100,BigBalJobbFONT --
+ENDVISUAL
+
+
+;BACKSIDE
+IMAGE=[backs],"D:\M”NIKA\Mounika-Tarsasjatek\MyLittleParty\graphics\jani.jpeg",0%,0%,100%,100%,0,PN
+
+duplex=[fronts],[backs]
+print=duplex
+
+

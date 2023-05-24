@@ -1,0 +1,8 @@
+font=arial,96,,#000000
+text=1-5,{§},0,0,100%,100%
+text=6,"B1",0,0,100%,100%
+text=7,"B2",0,0,100%,100%
+[fronts]=rangemul(1-5,2)
+[backs]=rangemul(6,5,7,5)
+duplex=[fronts],[backs]
+print=duplex

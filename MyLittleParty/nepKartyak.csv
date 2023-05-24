@@ -1,0 +1,51 @@
+Print,Pár,Kártya leírás HUN,Típus - HUN,Type - ENG,Right bonus,Left Bonus,Far Left,Left,Middle,Right,Far Right,Indok,TODO,CombMore,ComboMoreContra,KÖZÜNSÉG FINAL,KERET
+x,1,Eladod a nemzeti bankot a fiadnak,Esemény,Event,1,2,-2,-1,0,0,0,,,12,21,-2 -1 0 0 0,graphics/j.jpg
+x,1,Eladod a nemzeti bankot a zsidoknak,Esemény,Event,2,1,0,0,0,-1,-2,,,21,12,0 0 0 -1 -2,graphics/b.jpg
+x,2,LMBTQ propagandat tolsz az az iskolaban,Kampány,Campaign,3,1,2,2,0,0,0,,,31,13,2 2 0 0 0,graphics/szb.jpg
+x,2,Kotelezo Hittan oktatas az iskolakban,Kampány,Campaign,1,3,0,0,0,1,0,,,13,31,0 0 0 1 0,graphics/szj.jpg
+x,3,Elteted Horty Miklost,Kampány,Campaign,1,3,0,0,0,1,2,,,13,31,0 0 0 1 2,graphics/szj.jpg
+x,3,Elteted Marxot,Kampány,Campaign,3,1,2,1,0,2,2,,,31,13,2 1 0 2 2,graphics/szb.jpg
+x,K,Objektiv tajekoztatas a közmediaban,Kampány,Campaign,1,1,0,1,2,1,0,,,11,11,0 1 2 1 0,graphics/k.jpg
+x,?,Meleghazassag bevezetése,Kampány,Campaign,2,1,2,1,0,1,2,,x,21,12,2 1 0 1 2,graphics/b.jpg
+x,?,Kotelezo templomi eskuvõ,Kampány,Campaign,1,2,0,0,0,1,2,Árpád sem esküdött templomban,x,12,21,0 0 0 1 2,graphics/j.jpg
+x,4,Háborút indítasz a trianoni területekért,Kampány,Campaign,1,3,0,0,0,0,2,,,13,31,0 0 0 0 2,graphics/szj.jpg
+x,4,Nemzektözi betelepítése program (minden kultõrából lakjanak itt),Kampány,Campaign,3,1,2,0,0,0,0,,,31,13,2 0 0 0 0,graphics/szb.jpg
+,5,,Esemény,Event,,,,,,,,,,,,    ,graphics/k.jpg
+,5,,Esemény,Event,,,,,,,,,,,,    ,graphics/k.jpg
+x,K,a kutatás fejlesztése,Kampány,Campaign,1,1,0,1,2,1,0,ne fejlesszük a kutatást hazánkban / magyar ország fejlett,x,11,11,0 1 2 1 0,graphics/k.jpg
+x,6,Roma integrációs program bevezetése,Kampány,Campaign,2,1,2,1,0,0,0,,!!!!,21,12,2 1 0 0 0,graphics/b.jpg
+x,6,Szegregált iskola program,Kampány,Campaign,1,2,2,1,0,0,0,,,12,21,2 1 0 0 0,graphics/j.jpg
+x,?,Kötelezõ lovas íjászat,Kampány,Campaign,1,3,0,0,0,1,2,,,13,31,0 0 0 1 2,graphics/szj.jpg
+x,?,Vegán életmód elõnyei,Kampány,Campaign,2,1,2,1,0,0,0,,,21,12,2 1 0 0 0,graphics/b.jpg
+x,,"A hús, mint energia",Kampány,Campaign,1,2,,,,,,,,12,21,    ,graphics/j.jpg
+x,K,Adócsökkentés,Kampány,Campaign,1,1,2,2,2,2,2,,,11,11,2 2 2 2 2,graphics/k.jpg
+x,,Melegházasság elfogadása,Kampány,Campaign,3,1,2,1,0,0,0,,,31,13,2 1 0 0 0,graphics/szb.jpg
+x,,A kábítószerek legalizálása,Kampány,Campaign,3,1,2,1,,,,,,31,13,2 1   ,graphics/szb.jpg
+x,,Szabad pálinkafõzés otthon,Kampány,Campaign,2,1,,,2,,,,,21,12,  2  ,graphics/b.jpg
+x,,Drogot találnak a képviselõdnél,Esemény,Event,2,1,0,0,0,-2,-2,,,21,12,0 0 0 -2 -2,graphics/b.jpg
+x,,Pedofil fotókat találnak a képviselõdnél,Esemény,Event,3,2,-1,-1,-1,-2,-2,,b,32,23,-1 -1 -1 -2 -2,graphics/b.jpg
+x,,!!!,!!!,!!!,1,3,,,,,,,,13,31,    ,graphics/szj.jpg
+x,,!!!,!!!,!!!,1,2,,,,,,,,12,21,    ,graphics/j.jpg
+x,,!!!,!!!,!!!,1,2,,,,,,,,12,21,    ,graphics/j.jpg
+x,,Az egyik képviselõd állatkínzó,Esemény,Event,2,3,-2,-2,-1,-1,-1,,b,23,32,-2 -2 -1 -1 -1,graphics/j.jpg
+,,Privatizálsz valamit a rokonjaidnak,Esemény,Event,1,1,-1,-1,-1,-1,-1,,,11,11,-1 -1 -1 -1 -1,graphics/k.jpg
+x,,Sokat lopsz,Esemény,Event,1,1,-2,-2,-2,-2,-2,,,11,11,-2 -2 -2 -2 -2,graphics/k.jpg
+,,Szakszervezetek,,,,,,,,,,,,,,    ,graphics/k.jpg
+x,,Kritizalni az EU-t,,,,,,,0,1,2,,,,,  0 1 2,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
+,,,,,,,,,,,,,,,,,graphics/k.jpg
