@@ -1,5 +1,9 @@
 # Dictionary
-Vocabulary teacher
+Vocabulary teacher. Quite a message
+- English - Hungarian
+- Danish - English
+	- using win11 text-to-speech engine
+	
 
 ## How it works?
 - Open my google sheet, where are three column: words, meaning and help
