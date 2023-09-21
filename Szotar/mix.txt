@@ -1,0 +1,100 @@
+Hej, hvordan har du det? | Hello, how are you??
+Jeg elsker dig. | I love you.
+Tak for hjælpen. | Thank you for your help.
+Jeg er sulten. | I am hungry.
+Hvad laver du? | What are you doing?
+Skål! | Cheers!
+Hvor bor du? | Where do you live?
+Jeg er træt. | I am tired.
+Hvornår er din fødselsdag? | When is your birthday?
+Hvad er din yndlingsfarve? | What is your favorite color?
+Jeg forstår det ikke. | I don't understand.
+Hvordan går det? | How are you?
+Det er fantastisk! | That's fantastic!
+Undskyld. | I'm sorry.
+Kan du hjælpe mig? | Can you help me?
+Hvor er toilettet? | Where is the toilet?
+Hvad er klokken? | What time is it?
+Hvordan har din dag været? | How has your day been?
+Jeg er glad. | I am happy.
+Lad os gå. | Let's go.
+Jeg vil gerne have en kop kaffe. | I would like a cup of coffee.
+Hvad er dit navn? | What is your name?
+Jeg er optaget. | I am busy.
+Hvad synes du? | What do you think?
+Jeg vil gerne bestille mad. | I would like to order food.
+Hvordan kan jeg komme til...? | How can I get to...?
+Jeg er nødt til at gå. | I have to go.
+Hvad vil du have at spise? | What would you like to eat?
+Hvordan har du det? | How do you feel?
+Det er dejligt at møde dig. | Nice to meet you.
+Jeg har brug for hjælp. | I need help.
+Hvordan går det med arbejdet? | How's work going?
+Jeg kan godt lide det. | I like it.
+Hvordan har din weekend været? | How was your weekend?
+Hvad skal vi gøre i dag? | What should we do today?
+Jeg er ked af det. | I am sorry.
+Hvad er din favoritfilm? | What is your favorite movie?
+Jeg vil gerne betale regningen. | I would like to pay the bill.
+Hvornår skal vi mødes? | When should we meet?
+Jeg tror på dig. | I believe in you.
+Hvordan var din ferie? | How was your vacation?
+Jeg vil gerne have vand, tak. | I would like some water, please.
+Hvordan går det med din familie? | How is your family doing?
+Jeg er ikke sikker. | I am not sure.
+Hvordan var din dag på arbejdet? | How was your day at work?
+Jeg er fascineret af det. | I am fascinated by it.
+Hvordan kan jeg komme i kontakt med dig? | How can I reach you?
+Jeg er lidt nervøs. | I am a bit nervous.
+Hvornår skal vi starte? | When should we start?
+Jeg er vild med det. | I love it.
+Hvordan går det med din sundhed? | How is your health?
+Jeg er nødt til at tage afsted. | I have to leave.
+Hvad laver din familie? | What does your family do?
+Jeg er taknemmelig. | I am grateful.
+Hvornår er din bryllupsdag? | When is your wedding anniversary?
+Jeg er ikke enig. | I disagree.
+Hvordan går det med skolen? | How is school going?
+Jeg er stolt af dig. | I am proud of you.
+Hvad er din hobby? | What is your hobby?
+Jeg er her for at hjælpe. | I am here to help.
+Hvordan går det med din kæreste? | How is your girlfriend/boyfriend?
+Jeg er spændt. | I am excited.
+Hvordan kan jeg komme til stationen? | How can I get to the station?
+Jeg er ligeglad. | I don't care.
+Hvornår har du fødselsdag? | When is your birthday?
+Jeg er imponeret. | I am impressed.
+Hvordan går det med din karriere? | How is your career going?
+Jeg er ikke klar over det. | I am not aware of it.
+Hvad er din yndlingsmad? | What is your favorite food?
+Jeg er trist. | I am sad.
+Hvornår er din næste ferie? | When is your next vacation?
+Jeg er enig. | I agree.
+Hvordan går det med din bil? | How is your car?
+Jeg er interesseret i det. | I am interested in it.
+Hvad er din drøm? | What is your dream?
+Jeg er taknemmelig for din hjælp. | I am grateful for your help.
+Hvad er din plan for i aften? | What is your plan for tonight?
+Jeg er vild med musik. | I love music.
+Hvordan går det med din økonomi? | How is your finances?
+Jeg er ikke sikker på det. | I am not sure about that.
+Hvad er din yndlingsbog? | What is your favorite book?
+Jeg er ikke klar over det endnu. | I am not aware of it yet.
+Hvornår er din næste eksamen? | When is your next exam?
+Jeg er her for at lære. | I am here to learn.
+Hvordan går det med din hund? | How is your dog?
+Jeg er enig med dig. | I agree with you.
+Hvordan går det med din studie? | How is your study going?
+Jeg er imponeret af din præstation. | I am impressed by your performance.
+Hvad er din foretrukne rejsemål? | What is your preferred travel destination?
+Jeg er interesseret i at rejse. | I am interested in traveling.
+Hvordan går det med din hobby? | How is your hobby going?
+Jeg er sikker på det. | I am sure of it.
+Hvad er din yndlingsfilm? | What is your favorite movie?
+Jeg er ikke i humør til det. | I am not in the mood for it.
+Hvornår er din sidste arbejdsdag? | When is your last working day?
+Jeg er nysgerrig. | I am curious.
+Hvordan går det med din søster? | How is your sister?
+Jeg er nødt til at tage en pause. | I have to take a break.
+Hvordan går det med din bror? | How is your brother?
+Jeg er ikke klar over det endnu. | I am not aware of it yet.

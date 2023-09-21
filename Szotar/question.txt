@@ -1,0 +1,100 @@
+Hej, hvordan har du det? | Hello, how are you?
+Hvad hedder du? | What's your name?
+Hvor gammel er du? | How old are you?
+Hvor bor du? | Where do you live?
+Hvad laver du? | What do you do?
+Kan du tale engelsk? | Can you speak English?
+Hvornår er din fødselsdag? | When is your birthday?
+Hvad kan du lide at spise? | What do you like to eat?
+Hvorfor er du her? | Why are you here?
+Hvad er din yndlingsfarve? | What is your favorite color?
+Hvordan har din dag været? | How has your day been?
+Vil du have noget at drikke? | Would you like something to drink?
+Hvor lang tid har du boet her? | How long have you lived here?
+Kan du hjælpe mig? | Can you help me?
+Hvordan kommer jeg til centrum? | How do I get to the city center?
+Hvad synes du om vejret i dag? | What do you think of the weather today?
+Hvad er din hobby? | What is your hobby?
+Kan du anbefale en god restaurant? | Can you recommend a good restaurant?
+Hvordan går det med arbejdet? | How is work going?
+Hvordan har du det med din familie? | How do you get along with your family?
+Hvor lang tid tager det at komme til stranden? | How long does it take to get to the beach?
+Hvad er din plan for i morgen? | What's your plan for tomorrow?
+Kan du lide at rejse? | Do you like to travel?
+Hvad er din uddannelse? | What is your education?
+Hvor mange søskende har du? | How many siblings do you have?
+Hvad er din foretrukne musikgenre? | What's your favorite music genre?
+Hvad læser du i øjeblikket? | What are you currently reading?
+Hvilke film kan du godt lide? | What movies do you like?
+Hvor er det nærmeste supermarked? | Where is the nearest supermarket?
+Kan du give mig et lift? | Can you give me a ride?
+Hvordan fejrer I julen? | How do you celebrate Christmas?
+Hvordan har du det med at flyve? | How do you feel about flying?
+Hvordan siger man "tak" på dansk? | How do you say "thank you" in Danish?
+Hvor lang tid tager det at lære dansk? | How long does it take to learn Danish?
+Hvad er din drømmeferie? | What is your dream vacation?
+Hvad er din yndlingsbog? | What is your favorite book?
+Hvad er din plan for weekenden? | What's your plan for the weekend?
+Hvornår vågner du normalt op om morgenen? | What time do you usually wake up in the morning?
+Hvad er din yndlingsårstid? | What is your favorite season?
+Hvilke sportsgrene kan du lide at se? | What sports do you like to watch?
+Hvad er din største drøm? | What is your biggest dream?
+Hvad laver du i din fritid? | What do you do in your free time?
+Hvilke lande har du besøgt? | Which countries have you visited?
+Hvordan mødte du dine bedste venner? | How did you meet your best friends?
+Hvad er din favoritrestaurant i byen? | What is your favorite restaurant in town?
+Hvilke sprog taler du udover dansk? | What languages do you speak besides Danish?
+Hvad er din yndlingsdrik? | What is your favorite drink?
+Hvordan er din arbejdsuge normalt? | What does your workweek usually look like?
+Hvor lang tid har du kendt din partner? | How long have you known your partner?
+Hvordan ser din daglige rutine ud? | What does your daily routine look like?
+Hvorfor valgte du at studere det fag? | Why did you choose to study that subject?
+Hvad er din yndlingsmusik? | What is your favorite music?
+Hvordan er det at bo i Danmark? | What is it like to live in Denmark?
+Hvad er din drømmejob? | What is your dream job?
+Hvad er din yndlingshistorie fra barndommen? | What is your favorite childhood story?
+Hvad er din yndlingsapp? | What is your favorite app?
+Hvordan var din seneste ferie? | How was your last vacation?
+Hvad er din yndlingskunstværk? | What is your favorite work of art?
+Hvor lang tid bruger du på at træne hver dag? | How much time do you spend exercising each day?
+Hvad er din yndlingsplads i byen? | What is your favorite spot in the city?
+Hvordan håndterer du stress? | How do you deal with stress?
+Hvad er din yndlingsdyr? | What is your favorite animal?
+Hvad er din yndlingsfestival? | What is your favorite festival?
+Hvordan plejer du at fejre fødselsdag? | How do you usually celebrate your birthday?
+Hvordan ser din perfekte weekend ud? | What does your perfect weekend look like?
+Hvordan føles det at være her i dag? | How does it feel to be here today?
+Hvordan er dit forhold til din nabo? | What is your relationship with your neighbor like?
+Hvornår begyndte du at interessere dig for din hobby? | When did you start getting interested in your hobby?
+Hvad er din yndlingsrestaurantret? | What is your favorite restaurant dish?
+Hvordan ser din plan for næste år ud? | What does your plan for next year look like?
+Hvornår har du sidst grinet rigtig meget? | When was the last time you laughed a lot?
+Hvordan har du det med at køre bil? | How do you feel about driving a car?
+Hvad er din yndlingsmusikinstrument? | What is your favorite musical instrument?
+Hvad er din yndlingsårstid for rejser? | What is your favorite season for traveling?
+Hvad er din yndlingshistoriske periode? | What is your favorite historical period?
+Hvordan føles det at være her i dag? | How does it feel to be here today?
+Hvordan har du det med at tage chancer? | How do you feel about taking risks?
+Hvordan ser din perfekte dag ud? | What does your perfect day look like?
+Hvad er din yndlingsfødevare? | What is your favorite food?
+Hvordan slapper du bedst af? | How do you relax best?
+Hvordan ville du beskrive dig selv med tre ord? | How would you describe yourself in three words?
+Hvad er din yndlingsferie destination? | What is your favorite holiday destination?
+Hvordan ser din drømmebolig ud? | What does your dream home look like?
+Hvordan ser din plan for pensionering ud? | What is your retirement plan?
+Hvordan håndterer du konflikter? | How do you handle conflicts?
+Hvad er din yndlingsårstid for udendørs aktiviteter? | What is your favorite season for outdoor activities?
+Hvad ville du gøre, hvis du vandt i lotteriet? | What would you do if you won the lottery?
+Hvad er din yndlingsdrik på en varm sommerdag? | What is your favorite drink on a hot summer day?
+Hvordan er det at arbejde i dit nuværende job? | What is it like to work in your current job?
+Hvad er din yndlingsmåde at slappe af på? | What is your favorite way to relax?
+Hvordan fejrer du nytår? | How do you celebrate New Year's?
+Hvad er din yndlingsfrugt? | What is your favorite fruit?
+Hvad er din yndlingsbeskæftigelse i weekenden? | What is your favorite weekend activity?
+Hvad er din yndlingsvinteraktivitet? | What is your favorite winter activity?
+Hvordan tackler du udfordringer? | How do you tackle challenges?
+Hvad er din yndlingsmåde at lære nye ting på? | What is your favorite way to learn new things?
+Hvordan ser din perfekte ferie ud? | What does your perfect vacation look like?
+Hvad er din yndlingsfilm? | What is your favorite movie?
+Hvad er din yndlingsmuseum? | What is your favorite museum?
+Hvordan vil du gerne huskes? | How would you like to be remembered?
