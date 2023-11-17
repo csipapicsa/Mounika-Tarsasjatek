@@ -6,7 +6,10 @@ engine = pyttsx3.init()
 # voices = engine.getProperty('voices')
 
 # Set the voice to Danish
-engine.setProperty('voice', 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\MSTTS_V110_daDK_Helle')
+# engine.setProperty('voice', 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\MSTTS_V110_daDK_Helle')
+engine.setProperty('voice', 'da-DK\M1030Helle')
+#engine.setProperty('voice', 'hu-HU\M1038Szabolcs')
+#engine.setProperty('voice', 'hu-HU')
 engine.setProperty('rate', 150)  # Speed of speech
 
 ### imports
